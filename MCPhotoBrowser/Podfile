@@ -1,0 +1,4 @@
+platform :ios,'7.0'
+pod 'SDWebImage','~>3.7.5'
+pod 'MJPhotoBrowser', '~> 1.0.2'
+pod 'Masonry'
